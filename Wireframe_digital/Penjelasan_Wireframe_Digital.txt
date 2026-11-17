@@ -1,0 +1,11 @@
+1. Halaman Login (Masuk)
+
+Halaman login merupakan halaman yang digunakan oleh pengguna untuk masuk ke akun yang sudah dimiliki. Pada halaman ini terdapat kolom email dan kata sandi untuk mengisi informasi akun. Terdapat juga fitur lupa kata sandi apabila pengguna tidak ingat password-nya. Selain itu, tersedia tombol masuk dan pilihan untuk melanjutkan menggunakan akun Google. Jika belum memiliki akun, pengguna dapat memilih menu daftar.
+
+2. Halaman Registrasi (Daftar Akun)
+
+Halaman registrasi digunakan untuk membuat akun baru bagi pengguna yang belum memiliki akun. Pada halaman ini terdapat beberapa kolom, yaitu email, kata sandi, dan konfirmasi kata sandi. Pengguna juga harus menyetujui syarat dan ketentuan sebelum membuat akun. Setelah semua data diisi, pengguna dapat menekan tombol daftar untuk melanjutkan proses pendaftaran.
+
+3. Halaman Profil Saya
+
+Halaman profil digunakan untuk menampilkan informasi akun pengguna setelah berhasil masuk. Pada halaman ini terdapat foto profil, nama pengguna, dan alamat email. Tersedia juga tombol edit profil untuk mengubah informasi pribadi, seperti nama lengkap, email, dan nomor telepon. Selain itu, terdapat bagian keamanan akun yang digunakan untuk mengubah kata sandi.
