@@ -1,0 +1,13 @@
+ Use Case Diagram
+
+Use Case Diagram merupakan diagram yang menggambarkan hubungan antara pengguna dengan sistem serta fitur-fitur yang dapat digunakan.
+
+Pada diagram ini terdapat dua aktor, yaitu Pengguna dan Admin.
+
+- Pengguna: Pengguna dapat melakukan login dengan memasukkan password, kemudian sistem melakukan proses autentikasi untuk memeriksa akun. Jika berhasil, pengguna dapat masuk ke menu profil atau dashboard.
+- Daftar: Pengguna yang belum memiliki akun dapat melakukan pendaftaran dengan memasukkan email dan password baru, kemudian melakukan konfirmasi ulang.
+- Autentikasi: Proses pemeriksaan identitas pengguna untuk memastikan bahwa akun yang dimasukkan sesuai.
+- Data Tersimpan: Data akun yang telah didaftarkan akan disimpan ke dalam sistem.
+- Admin: Admin berperan dalam pengelolaan sistem dan data yang tersimpan.
+
+Tujuan dari Use Case Diagram ini adalah untuk memperlihatkan fitur utama aplikasi serta hak akses dari setiap aktor.

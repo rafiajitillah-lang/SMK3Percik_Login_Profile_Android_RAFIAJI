@@ -1,0 +1,17 @@
+ Flowchart
+
+Flowchart merupakan diagram yang menggambarkan urutan langkah atau alur kerja suatu proses menggunakan simbol-simbol tertentu.
+
+Pada flowchart aplikasi NOVA, proses dimulai dari pengguna membuka aplikasi. Setelah itu, sistem akan menanyakan apakah pengguna sudah memiliki akun atau belum.
+
+- Mulai: Proses dimulai ketika pengguna membuka aplikasi.
+- Punya Akun?: Sistem memeriksa apakah pengguna sudah memiliki akun.
+- Ya: Jika sudah memiliki akun, pengguna memasukkan email dan password.
+- Email dan Password Benar?: Sistem memeriksa apakah data login yang dimasukkan sesuai.
+- Tidak: Jika email atau password salah, pengguna diminta memasukkan ulang data login.
+- Menu Profil/Dashboard: Jika data benar, pengguna berhasil masuk dan diarahkan ke halaman utama.
+- Tidak (Belum Punya Akun): Pengguna memasukkan email dan password untuk membuat akun baru, kemudian melakukan konfirmasi ulang.
+- Data Tersimpan: Data pendaftaran disimpan oleh sistem.
+- Selesai: Proses berakhir setelah pengguna berhasil masuk ke menu profil atau dashboard.
+
+Tujuan Flowchart ini adalah mempermudah pemahaman mengenai urutan proses login dan pendaftaran akun dari awal hingga selesai.

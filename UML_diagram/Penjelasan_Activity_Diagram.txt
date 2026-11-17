@@ -1,0 +1,25 @@
+ Activity Diagram
+
+Activity Diagram merupakan diagram yang menggambarkan aktivitas atau kegiatan yang dilakukan oleh pengguna dan sistem dalam menjalankan suatu proses.
+
+Pada diagram ini terdapat dua bagian utama, yaitu Pengguna dan Sistem.
+
+Aktivitas Pengguna:
+
+- Pengguna memulai dengan masuk ke aplikasi.
+- Sistem menanyakan apakah pengguna sudah memiliki akun.
+- Jika sudah memiliki akun, pengguna memasukkan username dan password.
+- Jika belum memiliki akun, pengguna membuat akun baru dengan memasukkan data email dan password.
+- Pengguna dapat memasukkan kembali data apabila terjadi kesalahan.
+
+Aktivitas Sistem:
+
+- Sistem menerima data yang dimasukkan oleh pengguna.
+- Sistem menyimpan data akun baru.
+- Sistem melakukan pemeriksaan atau pengecekan terhadap data yang dimasukkan.
+- Jika data tidak benar, pengguna diminta memasukkan ulang data.
+- Jika data benar, sistem menampilkan menu utama atau dashboard.
+
+Proses berakhir ketika sistem berhasil menampilkan menu kepada pengguna.
+
+Tujuan Activity Diagram ini adalah menjelaskan pembagian aktivitas antara pengguna dan sistem sehingga alur kerja aplikasi lebih mudah dipahami.
